@@ -8,9 +8,9 @@ I'm a software developer and I want to improve my skills, especially in front-en
 
 
 ## 🧑🏻‍💻 About me 
-- 💻 Full-Stack Developer focused in JavaScript and PHP.
-- 🛠 Techs: Node.js, Docker, React.js, Bootstrap, PHP, etc.
-- :books: Studying: Typescript , Docker and React Native;
+- 💻 Full-Stack Developer focused in Java ,JavaScript and PHP.
+- 🛠 Techs: Spring, Node.js, Docker, React.js, Bootstrap, PHP, etc.
+- :books: Studying: Spring and Angular! ;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasFreitasRocha)](https://github.com/LucasFreitasRocha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-freitas-da-rocha-25649212b/)](https://www.linkedin.com/in/lucas-freitas-da-rocha-25649212b/)
